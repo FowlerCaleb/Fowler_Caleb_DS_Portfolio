@@ -3,9 +3,14 @@
 My name is Caleb Fowler. I am a current Oregon State University physics and data science double major. I enjoy learning how the world works and am especially interested in outer space. With the amounts of data collected from telescopes I decided it would be a good idea to pick up a data science background as I am bound to be using some of their techniques to clean up the data I receive.
 
 ## Skills
+- GitHub
 - Python
 - C++
-- Communication with collaborators across timezones via in person or technology
+- Collaboration across institutions via in person or technology
+- Effective work in fast-paced environments
+- Basic Understanding of R
+- Communication with general public and fellow scientists
+- Data analysis techniques
 
 
 ## Projects
